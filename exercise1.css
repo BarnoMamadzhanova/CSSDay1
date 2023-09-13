@@ -7,10 +7,10 @@ h1 {
 #third > span {
     visibility: hidden;
 }
-.right p {
+#fifth p {
     display: none;
 }
-img {
+#sixth img {
     width: 300px;
     height: 300px;
 }
